@@ -161,3 +161,4 @@ deployments
 
 # Docker
 .dockerignore
+entrypoint.sh
